@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  - UICamera
+  - ItemMoveTarget
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - Ground
+  - Enemy
+  - Transfer
+  - TrapGroup
+  - TileMapGrid
+  - UIParticle
+  - Vehicle
+  - Midground
+  - StrikingEnemy
+  - AutoMesh
+  - 
+  - Thief
+  - Carriage
+  - Thief_Enemy
+  - LevelSelect
+  - BackClip
+  - UI3D
+  - Education
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CameraEffect
+    uniqueID: 242319825
+    locked: 0
+  - name: UIEffect
+    uniqueID: 1604620999
+    locked: 0
+  - name: FrontUIEffect
+    uniqueID: 2896050329
+    locked: 0

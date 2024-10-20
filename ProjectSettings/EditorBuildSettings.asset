@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Launch.unity
+    guid: c919afa6ba9240742afc5bd77d835beb
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/MenuScene.unity
+    guid: 4764ec6671d459f4085cab22d973280e
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Tutorial.unity
+    guid: 5fd1bf3a4e237c14b86a37a60077a288
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/StarryDream.unity
+    guid: 8fa6e19a2008f94478a9464273cfa848
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/StarryDream_1_E.unity
+    guid: 6bbb8cd54c7817043abb643c15ecf902
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/StarryDream_2_H.unity
+    guid: 2d43e32c3ba45934eaa6b4189185840e
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Waltz_1_E.unity
+    guid: b1f725a2ef6769c468d5f48ea3d2347e
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Waltz.unity
+    guid: 21777ad90eaa86b439b506d1941900ae
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Waltz_1_H.unity
+    guid: 145cf42d66dd2994e98c906ea172dc63
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Pharaohs_1_E.unity
+    guid: 1d3a6eef18f9e154a893b8e4f6d9a3d6
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Pharaohs.unity
+    guid: 23733377227162547bc9299f0c52a0e8
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Pharaohs_2_H.unity
+    guid: ee8fb098a8b339f4d964e51b79b1d412
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Fantasia_Jazz_E.unity
+    guid: 1aa18ad87c98bf447a676fe7b8f0e48f
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Fantasia_Jazz_N.unity
+    guid: 510cdac5f6998fb4c8724708f8440cea
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Fantasia_Jazz_HE.unity
+    guid: a8851b5f63084e649a7ef7283a7893a4
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Pharaohs_2_E.unity
+    guid: 7e9d32abe0c4cb748a77e020f11c9ca8
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Pharaohs_2_HN.unity
+    guid: 24d1b37c4c619ea41b824a084ed56eda
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Home_Rainbow_E.unity
+    guid: 744a13bf07af0664cacd82e1080ce7f8
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Homeland_1_H.unity
+    guid: 30275303e62b0ca44a843a9b8c5a360d
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Homeland_1_E.unity
+    guid: 54d69231860ec3e43aae6dc34897ca1b
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/StarryDream_2_HN.unity
+    guid: a3e0e01f9905f4444b28bf17d81dfe87
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/StarryDream_2_E.unity
+    guid: 73ac37485f2ce58428332a98841e8c3d
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/StarryDream_2_HE.unity
+    guid: ac0c1c929f5e74444a3686cc902ec493
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Thief_2_HN.unity
+    guid: cfcc7e92378fddb49aeab85512cce967
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Thief_2_H.unity
+    guid: 4123efe39792c72439a16a5667351a5a
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Thief.unity
+    guid: 6d1a7d6a3fbee304085651f8f225001c
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Thief_1_E.unity
+    guid: c8404b547cf90324dbdef2cc97abda16
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Fate_2_H.unity
+    guid: 0ff08d23a09220b4b9b9aeb8ccefd943
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Fate.unity
+    guid: 7669a8e0d77788a4a876087dd2007943
+  - enabled: 1
+    path: Assets/_RS2Art/Scene/Samurai_1_E.unity
+    guid: 6c4fdb96e2b39564198b3b1f9f9a47c3
+  m_configObjects: {}
